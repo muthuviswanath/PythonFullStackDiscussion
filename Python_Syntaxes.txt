@@ -1,0 +1,42 @@
+Python is a Dynamically typed HighLevel Object Oriented Programming Language
+Line Structure:
+A line is a complete line of code which is known as a token
+To have mulitiple lines of code: use \
+To display the output in consucutive lines: use """
+
+Comments:
+Python supports Single line comment only: It is represented using #
+
+DocStrings:
+It is a document String.
+It is used to provide the project description.
+It is used in release notes.
+
+Indentation:
+It is used instead of {}
+For the following the statements must be indented:
+    for, while, function, class, method,if,else, try,catch
+Quotations:
+    Any character that is enclosed within both '' and "" are considered as String
+Identifiers:
+    variablename is an Identifier
+    classname is an Identifier
+    functionname is an Identifier
+    methodname is an Identifier
+    module name and package names are Identifiers
+
+    Identifier Rules:
+        1. Identifier can begin with letters from (A-Z) or (a-z) or _ (underscore)
+        2. Identifuer can have number but cannot start with a number
+        3. Allowed special characters is only _
+        4. It cannot be a Python's Keyword
+Variables:
+    A varaible is an Identifier
+    It is used to represent a value
+    A value on a classical thought process is assigned to a variable
+    In order to use a variable, it has to be declared first
+StringFormatters:
+% operator
+Format() method
+f string (Foramtted String)
+r string (Raw String)

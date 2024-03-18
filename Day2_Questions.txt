@@ -1,0 +1,6 @@
+What is a python Identifier and metion it rules.
+Names various String formatters.
+What is the useof DocString?
+How will you write multiline statements in Python
+Tell about Quotations in Python
+Take a variable called a and print its datatype as well as it memory location
