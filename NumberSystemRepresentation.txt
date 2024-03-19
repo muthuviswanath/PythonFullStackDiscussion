@@ -1,0 +1,12 @@
+Binary:
+    To represent the value directly in binary format:
+        0b[0/1]
+        0B[0/1]
+
+Octal:
+    0o[0-7]
+    0O[0-7]
+
+Hexadecimal:
+    0x[0-9/a-f/A-F]
+    0X[0-9/a-f/A-F]

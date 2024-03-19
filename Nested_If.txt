@@ -1,0 +1,14 @@
+smartphone - product
+10000 - 50000 - budget
+32MP - 58MP - Camera
+8GB - RAM
+
+if (product == 'Smartphone'):
+	if price>=1000 and price <=5000:
+		if camera >=32 and camera <=58:
+			if ram >=8:
+				print(product_list)
+
+while, infinite-while loop and how to stop it
+for loop infinite for loop
+menu driven application
