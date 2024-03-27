@@ -1,0 +1,17 @@
+Class:
+    Class is a blueprint of an object
+    Class is used to help in constructing the object
+    Class is a logical entity that has no physical existence
+    Class is a non-primitive data type
+
+Object:
+    It is a real world physical entity which can be seen or touched or felt and which has mass and occupies space.
+    To create an object class is required
+    More than one object can be created out of the same class / blueprint
+    All the objects that are created using the same class / blueprint can be called as similar objects
+    Modifying or destroying an object that is created using the same class / blueprint will not affect the other objects
+    An object can have multiple references
+    One that is used to describe about the object is called as states or properties of the object and it is represented as variables
+    One that is used to describe the functionality of the object is called as behaviour it is represented as methods
+
+
