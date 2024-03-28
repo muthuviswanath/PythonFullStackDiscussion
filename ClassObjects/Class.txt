@@ -14,4 +14,7 @@ Object:
     One that is used to describe about the object is called as states or properties of the object and it is represented as variables
     One that is used to describe the functionality of the object is called as behaviour it is represented as methods
 
-
+How to create a class?
+How to create an object?
+How to create the properties?
+How to create methods and access it?
