@@ -19,3 +19,10 @@
     
     
 """
+
+# Datastructures - Inbuilt
+# List, Tuple, Set, Dictionary
+# List and Tuple are almost same but differs only in the property of immutability
+# Set non index based 
+# Dictionary is a representation of Key and Value pair
+# Functions,Operations, Methods, Iteration (for,while), Comprehension

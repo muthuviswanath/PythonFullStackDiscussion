@@ -1,0 +1,16 @@
+List:
+    It is used to store more than one value in a single varaible space.
+    List might have duplicate elements.
+    List maintains insertion order until sorted.
+    Elements are stored based on an index value.
+    It support random access.
+    It supports retrieval using positive and negative indexing.
+    It is heterogeneous in nature (Can store multiple elements of different datatypes).
+    List can be comprehended.
+    It supports different methods for storing and retrieval of data.
+    Inbuilt functions are also supported by list.
+    List is mutable in nature. (Can change the existing values of the list with another value).
+
+Tuple
+Set
+Dictionary
