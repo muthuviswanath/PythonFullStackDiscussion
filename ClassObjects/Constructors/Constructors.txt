@@ -1,0 +1,19 @@
+Purpose of the constructor is to create or to construct an object
+Constructors can also be used to initialize the class instance variables at the time of object creation
+Constructor Types:
+    Default Constructor
+    Non-Parameterized Constructor
+    Parameterized Constructor
+Every class comes with an automatic constructor called as default constructor.
+The default constructor can be called explicitly outside the class
+A constructor can be created by the developers explicitly. Those are Non-Parameterized Constructor, Parameterized Constructor
+To create a constructor - Syntax:
+
+Non-Parameterized Constructor:
+    def __init__(self):
+        statements
+Parameterized Constructor:
+    def __init__(self,variable):
+        statements
+There is nothing called as constructor overloading
+If the user creates a constructor, then there wont be any default constructor

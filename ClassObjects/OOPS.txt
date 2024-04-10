@@ -1,0 +1,33 @@
+Scenario:
+    * Number of interactive objects present
+    * Creating those many number of classes
+
+
+For a single Employee, calculate Bonus if their salary is in th following slab
+    Salary > 15000 and < 20000 -> Bonus = 10% of the salary
+    Salary > 20000 and < 30000 -> Bonus = 20% of the salary
+    Salary > 30000 and < 45000 -> Bonus = 30% of the salary
+
+class Employee:
+    salary = 0
+    bonus = 0
+
+    def calcBonus(self):
+        if self.salary > 15000 and self.salary < 20000:
+            bonus = salary * .10
+        elif 
+
+ATM Machine dispense cash by taking card, pin, amount as input
+
+class ATMMachine:
+
+        def dispense(self, card, pin, amount):
+            c =  Cash()
+            return c
+class Cash:
+class Card:
+
+card = Card()
+ATM = ATMMachine()
+money = ATM.dispense(card, 1234, 1000)
+print(money)
