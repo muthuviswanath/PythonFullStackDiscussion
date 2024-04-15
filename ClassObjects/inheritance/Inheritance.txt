@@ -1,0 +1,14 @@
+Inheritance:
+    It is a phenomenon where a class inherits the proeprties and behaviors of another class. 
+    In which, the class that inherits the proeprties and behaviors is called as "Sub Class / Derived  Class / Child Class".
+    The class whose proeprties and behaviors are inherited is called as "Super Class / Base Class / Parent Class".
+    When a method is overridden, the implementation of the method is always called from the derived class only.
+
+Types of Inheritance:
+
+    Single Level Inheritance
+    Multi-Level Inheritance
+    
+    Hierarchical Inheritance
+    Multiple Inheritance
+    Hybrid Inheritance
