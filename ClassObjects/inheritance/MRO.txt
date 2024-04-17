@@ -1,0 +1,33 @@
+Method Resolution Order
+    In multiple inheritance, a specific attribute or poperty or method will be searched in the current class. 
+    If it is not found in the current class, it searches in the parent class.
+    This search order is called as Method Resolution Order.
+
+
+                            
+
+MRO Principle:
+
+
+                            class A:
+
+                            class B (A):
+
+                            class C (B):
+
+    1. Is is to search in the current class before going to the base/parent/super class. If class B is inherited from A, then the class B
+    will be searched first and then if it is not found in class B then it will search in class A.
+
+                            class A:
+
+                            class B:
+
+                            class C:
+                            
+                            class D(A,C,B):
+
+    2. If a class is inherited from several classes, then it searched from left to right in the way of inheritance.
+    So in this above case, the search will happen in class A then in C and then in B
+
+
+    3. Once a class is visited, it will not be visited again.
